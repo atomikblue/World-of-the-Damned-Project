@@ -1,0 +1,97 @@
+******************************************
+******************************************
+*****     World of the Damned        *****
+*****       Blizzlike v 6.0          *****
+******************************************
+******************************************
+
+Core
+	Core #2 will replace Core #1 with various of fixes.
+	Latest ArcEmu Update.
+	Latest WhyDB Update.
+	Tons of DB fixes.
+	Few Crash fixes.
+	character DB got tons of cleaning.
+	auth DB got tons of cleaning.
+	world DB got Various amount of cleaning.
+
+
+Other
+	Maps Updated to v6
+	Vmaps Updated to v6
+	Dbc Updated to v10.3
+	Mmaps added v1
+
+
+Quest's
+	Ring of Blood is fully working.
+
+
+Creature's
+	Death Knight Initiate is corrected.
+	Kira Songshine has been rescripted.
+	Topper McNabb has been rescripted.
+	Hogger is now scripted.
+	Kobold Vermin is now scripted.
+	Donna is corrected.
+	Adam & Billy is corrected.
+	Thrall is corrected.
+	Lord Falconcrest is corrected.
+	Tons of Westfall creature's fixed.
+	Tons of Duskwood creature's fixed.
+	Tons of Redridge creature's fixed.
+	Tons of Eversong woods creature's fixed.
+
+
+Dungeons
+	Blackrock Spire
+		Pyroguard Emberseer is now scripted.
+		Highlord Omokk is now scripted.
+		Shadow Hunter Vosh'gajin is now scripted.
+	Blackfathom Deeps
+		Old Serra'kis is now scripted.
+	Blackrock Depths
+		Lord Roccor is now scripted.
+		Bael'Gar is now scripted.
+		Houndmaster Grebmar is now scripted.
+		High Interrorgator Gerstahn is now scripted.
+		Pyromancer Loregrain is now scripted.
+		General Angerforge is now scripted.
+		Golem Lord Argelmach is now scripted.
+		Ribbly Screwspiglot is now scripted.
+		Hurley Blackbreath is now scripted.
+		Plugger Spazzring is now scripted.
+		Phalanx is now scripted.
+		Lord Incendius is now scripted.
+		Fineous Darkvire is now scripted.
+		Warder Stilgiss & Verek is now scripted.
+		Ambassador Flamelash is now scripted.
+		The Seven is now Scripted.
+			Hate'rel is added to the script. 
+			Anger'rel is added to the script. 
+			Vile'rel is added to the script. 
+			Gloom'rel is added to the script. 
+			Seeth'rel is added to the script. 
+			Doom'rel is added to the script. 
+			Dope'rel is added to the script. 
+		Magmus is now Scripted.
+		Princess Moira Bronzebeard is now scripted.
+		Emperor Dagran Thaurissan is now scripted.
+	Magisters' Terrace
+		Priestess Delrissa is half scripted.
+		Ellrys Duskhallow is added to the script.
+		Eramas Brightblaze is added to the script.
+		Yazzai is added to the script.
+		Warlord Salaris is added to the script.
+		Garaxxas is added to the script.
+
+
+Funserver
+	Dungeons
+	Marjai Revenge
+	Spawned all the Thrash mobs.
+	First boss spawned.
+	Eonar encounter has been change a little more.
+
+Credits - Holystone Productions, zdroid9770
+Copyright©  World of the Damned - Funserver Repack Since 2011

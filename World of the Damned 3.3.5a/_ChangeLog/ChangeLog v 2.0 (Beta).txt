@@ -1,0 +1,38 @@
+******************************************
+******************************************
+*****     World of the Damned        *****
+*****       Blizzlike v 2.0          *****
+******************************************
+******************************************
+
+
+
+    Events:
+        Brewfest Added
+        Darkmoon Faire Added
+        Hallow'end Added
+        HarvestFestival Added
+        Noblegarden Added
+        Winter Veil Added
+
+    Spell's:
+        Thunderstorm Fixed
+        Crusader Strike Fixed
+        Intimidating Shout Fixed
+        Pestilence Fixed
+        Mind Freeze Fixed
+
+    Icecrown Citadel:
+        Lady Deathwhisper Improved Fight
+        Rotface Script Added
+
+    GameObjects:
+        Icecrown Citadel Portal Added
+
+    Class's:
+        Paladin Fixed
+
+
+
+Credits - Holystone Productions, zdroid9770
+Copyright©  World of the Damned - Funserver Repack Since 2011

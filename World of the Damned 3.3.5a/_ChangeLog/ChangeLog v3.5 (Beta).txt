@@ -1,0 +1,46 @@
+******************************************
+******************************************
+*****     World of the Damned        *****
+*****       Blizzlike v 3.5          *****
+******************************************
+******************************************
+
+Core
+	Latest ArcEmu Update.
+	Latest WhyDB Update.
+	Little Crash Fixed.
+	Many Core Fixed.
+
+
+Dungeons
+	The Nexus
+		The Oculus
+			Drakos the Interrogator is scripted and ready.
+	Ulduar
+		Halls of Stone
+			Krystallus is scripted and ready.
+			Maiden of Grief is scripted and ready.
+			Sjonnir The Ironshaper is scripted and ready.
+			Elite Dark Rune Warrior is scripted and ready.
+	Icecrown Citadel:
+		Festergut Script Added.
+		Lady Deathwhisper Rescripted.
+		Lord Marrowgar Rescripted.
+		Cold Flame Fixed.
+
+
+General
+	World Discovering is now improved.
+	Most Vehicles work.
+	Anti-Cheat Added and working.
+
+
+Funserver
+	Rescripted Free mounts Npc.
+	Alliance and Horde malls respawned, now better.
+	Updated and Rescripted Alliance and Horde Teleporters.
+	Eonar now has a dragon form and Spells during the Custom Boss fight.
+
+
+Credits - Holystone Productions, zdroid9770
+Copyright©  World of the Damned - Funserver Repack Since 2011

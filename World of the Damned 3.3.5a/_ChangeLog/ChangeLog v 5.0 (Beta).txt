@@ -1,0 +1,58 @@
+Changelog: v5
+
+Core
+Latest ArcEmu Update.
+Latest WhyDB Update.
+Tons of DB fixes
+Few Crash fixes
+
+Other
+Maps Updated to v5.
+Vmaps Updated to v5.
+Dbc Updated to v9.7.
+v5 ready's for Mmaps.
+
+Dungeon
+Blackwing lair -
+Fixed all spawns.
+The Ruby Sanctum
+Halion health fixed.
+
+
+Funserver
+Other
+2 Brand new malls: Non-pvp Mall, and pvp Mall.
+
+Item's
+Tier 13 items fully done.
+Tier 14 items started on.
+Donor point.
+Vote point.
+Thrall's point.
+Teleporting Stone.
+
+Quest's
+Custom Storyline #1 - How Azeroth is damned.
+Custom Storyline #2 - Revenge of Marjai <Go back in time to see how it all started>
+
+Npc's
+King Varion will be spawned at his throne, Dead (Dungeon).
+Kel'Thuzard Spawned.
+Thrall Spawned.
+Horde mall Fully Spawned.
+Corrected Tons of Npc flags.
+Horde can't use the Alliance Teleporter now.
+Alliance can't use Horde Teleporter now.
+Celestial Boss now drops the mount of what it looks like at 12% drop rate.
+Celestial Mount will now be tested and fixed on the speed.
+
+Custom Dungeon
+Mage Quarter Fully Spawned
+Marjai's Revenge Fully Spawned
+
+Scripts
+Portable Teleporter - A Teleporter thats with you all times.
+Marjai <The Voodoo> - as come back for revenge.
+Redone the All Trainer NPC.
+Added color for the Teleporters :3.
+Added missing mounts to the Mount script.

@@ -1,0 +1,89 @@
+******************************************
+******************************************
+*****     World of the Damned        *****
+*****       Blizzlike v 2.0          *****
+******************************************
+******************************************
+
+Core
+	New compiled Arcemu Core
+	Latest WhyDB Update
+	Latest ArcEmu Update
+
+
+
+Creatures
+	All Dumies are fixed!
+	Fixed all Buged NPCS (ALL) that won't attack
+	Stormwind Mini Bosses, Orgrimmar Mini Bosses have been spawned
+	Fix Dalaran Guardians (Horde & Alliance)
+	Rewrote & Corrected Script for Horde Teleporter
+	Rewrote & Corrected Script for Alliance Teleporter
+	Various of NPC Fixes
+	All Guards in Stormwind and Orgrimmar, boost to lvl 90 & a Health Boost
+	Changed King of the Damned Display + Name to Kel'Thuzad
+	Kel'Thuzad Spawned
+	The Commander Spawned
+	The Elites for Stormwind & Orgrimmar
+	Get Honor from killing Orgrimmar/Stormwind Guards
+	Get Honor in Silvermoon & Ironforge from the Guards
+
+
+Spell's:
+	Thunderstorm Fixed
+	Crusader Strike Fixed
+	Intimidating Shout Fixed
+	Pestilence Fixed
+	Mind Freeze Fixed
+
+
+Instances/Battlegrounds/Arenas:
+	Ruby Sanctum:
+		Corrected Halion's Health
+		Spawned few missing Npc's
+	Battlegrounds:
+		Random Battlegrounds is now available.
+		Warsong Gulch is now available.
+		Arathi Basin is now available.
+		Alterac Valley is now available.
+		Eye of the Storm is now available.
+	Arenas:
+		Blade's Edge Arena is now available.
+		Nagrand Arena is now available.
+		Ruins of Lordaeron is now available.
+		The Ring of Valor is now available
+	Icecrown Citadel:
+		Corrected the spells cased in the Throne.
+		Lady Deathwhisper as been Scripted and Improved Fight.
+		Lord Marrorgar as been scripted.
+		Rotface Script Added.
+	Blackfathom Deeps:
+		Aku'mai as been scripted.
+		Baron Aquanis as been scripted.
+		Gelihast as been scripted.
+		Ghamoo-ra as been scripted.
+		Lady Sarevess as been scripted.
+		Lorgus Jett as been scripted.
+		Twilight Lord Kelris as been scripted.
+
+
+General/Quest:
+	Noble Garden has a new area with a few custom quests and a Egg Hunt
+	Fixed Dk Quest Chain Til last Quest
+
+
+Achievements:
+	Alliance PVP titles + Achievements have been scripted
+	Horde PVP titles + Achievements have been scripted
+
+
+GameObjects:
+	Icecrown Citadel Portal Added[/list]
+
+
+Class's:
+	Paladin Fixed (97%)
+
+
+Credits - Holystone Productions, zdroid9770
+Copyright©  World of the Damned - Funserver Repack Since 2011

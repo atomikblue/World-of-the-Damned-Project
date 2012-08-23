@@ -1,0 +1,20 @@
+******************************************
+******************************************
+*****     World of the Damned        *****
+*****       Blizzlike v 1.0          *****
+******************************************
+******************************************
+
+Basic teleporter
+Basic Mall
+Basic Alliance Mall
+Basic Horde Mall
+Various amount a new items
+Various of fixes
+	Npc's
+	Items
+	Gameobjects
+Initial Release
+
+Credits - Holystone Productions, zdroid9770
+Copyright©  World of the Damned - Funserver Repack Since 2011

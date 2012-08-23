@@ -1,0 +1,92 @@
+******************************************
+******************************************
+*****     World of the Damned        *****
+*****       Blizzlike v 4.0          *****
+******************************************
+******************************************
+
+Core
+	Latest ArcEmu Update.
+	Latest WhyDB Update.
+
+
+Other
+	Maps Updated to v4.
+	Vmaps Updated to v4.
+	Dbc Updated to v9.6.
+
+
+Dungeon
+	Pit of Saron
+		Forgemaster Garfrost is now scripted.
+		Ick & Krick is now scripted.
+		Scourgelord Tyrannus is now scripted.
+
+
+	The Forge of Souls
+		Bronjahm is now scripted.
+		Devourer of Souls is now scripted.
+
+
+	Trail of the Crusader
+		Gormok the Impaler is now scripted.
+		Acidmaw & Dreadscale is now scripted.
+		Icehowl is now scripted.
+		Lord Jaraxxus is now scripted.
+		Faction Champions is now scripted.
+		Fjola & Eydis is now scripted.
+		Anub'arak is now scripted.
+
+
+	Naxxramas
+		The Arachnid Quarter is now scripted.
+		The Plague Quarter is now scripted.
+		The Military Quarter is now scripted.
+		The Construct Quarter is now scripted.
+		Frostwyrm Lair is now scripted.
+
+
+	The Eye of Eternity
+		Malygos is now scripted.
+
+
+	Ulduar
+		The Siege of Ulduar is now scripted.
+		The Antechamber of Ulduar is now scripted.
+		The Keepers of Ulduar is now scripted.
+		The Descent into Madness is now scripted.
+		Celestial Planetarium is now scripted.
+
+
+	Vault of Archavon
+		Archavon the Stone Watcher is now scripted.
+		Emalon the Storm Watcher is now scripted.
+		Koralon the Flame Watcher is now scripted.
+		Toravon the Ice Watcher is now scripted.
+
+
+	The Obsidian Sanctum
+		Tenebron is now scripted.
+		Shadron is now scripted.
+		Vesperon is now scripted.
+		Sartharion is now scripted.
+
+
+	The Ruby Sanctum
+		Baltharus the Warborn is now scripted.
+		General Zarithrian is now scripted.
+		Saviana Ragefire is now scripted.
+		Halion is now scripted.
+
+
+Funserver
+	Quest
+		"How it all started..." Starts a Brand new custom Storyline of how Azeroth is damned.
+		"The Shard?" you have to get these items to open a gateway to Stormwind in the feature.
+	New Npc's
+		Thrall (ID - 7000010) - Is the finisher of "How it all started..." and begins "The Shard?"
+		Zeul (ID - 999999) - Starts quest "How it all started..."
+
+
+Credits - Holystone Productions, zdroid9770
+Copyright©  World of the Damned - Funserver Repack Since 2011
